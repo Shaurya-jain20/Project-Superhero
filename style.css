@@ -1,0 +1,36 @@
+.body_background{
+    background-image: url(https://tse2.explicit.bing.net/th?id=OIP.d9izi3FOP1nHIXEIzaGTXQHaEK&pid=Api&P=0&w=371&h=210);
+    background-size: cover;
+    background-position: center;
+    }
+    #myCanvas{
+        background-color:aqua;
+        border-width: 10px;
+        border-style: ridge;
+    }
+    h2
+    { 
+        border-radius: 10px;
+         width: 200px;
+          padding: 5px;
+     } 
+     h3 
+     { 
+         display: inline-block;
+     
+    } 
+    span {
+         color: black;
+         } 
+         a {
+              text-decoration: none;
+               font-size: 20px;
+                padding: 10px;
+                float: left;
+                 border-radius: 10px;
+                 } 
+                 #head_info { 
+                     width: 600px;
+                      border-radius: 10px;
+                       margin-bottom: 10px;
+                     }
